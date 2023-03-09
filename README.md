@@ -3,6 +3,7 @@
 
 
 
+
 - 🔭 Atualmente estou estagiando como desenvolvedor web front-end no Núcleo de Tecnologias Estratégicas em Saúde (NUTES)!
 - :bookmark_tabs: Graduado em ciência da Computação pela Universidade Estadual da Paraiba (UEPB)
 - :computer: Em busca de oportunidades   
