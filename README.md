@@ -8,7 +8,8 @@
 - :bookmark_tabs: Graduado em ciência da Computação pela Universidade Estadual da Paraiba (UEPB)
 - :computer: Em busca de oportunidades   
 - ⚡ Curiosidade: Em tempo livre, gosto de me aventurar como ciêntista de Dados!
-- 📖 Portofolio: https://portofolio-react-lac.vercel.app
+- 📖 Portofolio: <a href = "https://portofolio-react-lac.vercel.app" target="_blank"> >Leandro Lincoln</a>
+
    
 
 
