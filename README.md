@@ -4,7 +4,7 @@
 
 
 - 👨 Olá, me chamo Leandro Lincoln, tenho 27 anos e sou apaixonado por desenvolvimento de software.
-- 🔭 Estagiando atualmente como desenvolvedor web front-end no Núcleo de Tecnologias Estratégicas em Saúde (NUTES)!
+- 🔭 Experiencia como desenvolvedor web front-end no Núcleo de Tecnologias Estratégicas em Saúde (NUTES)!
 - :bookmark_tabs: Graduado em ciência da Computação pela Universidade Estadual da Paraiba (UEPB)
 - :computer: Em busca de oportunidades   
 - ⚡ Curiosidade: Em tempo livre, gosto de me aventurar como ciêntista de Dados!
