@@ -4,9 +4,9 @@
 
 
 - 👨 Olá, me chamo Leandro Lincoln, tenho 27 anos e sou apaixonado pelo mundo dos dados.
-- 🔭 Experiencia como desenvolvedor web front-end no Núcleo de Tecnologias Estratégicas em Saúde (NUTES)!
-- :bookmark_tabs: Graduando em ciência da Computação pela Universidade Estadual da Paraiba (UEPB)
-- :computer: Em busca de oportunidades   
+- 🔭 Cientista de Dados no Núcleo de Tecnologias Estratégicas em Saúde (NUTES)!
+- :bookmark_tabs: Graduado em ciência da Computação pela Universidade Estadual da Paraiba (UEPB)
+- :computer: Pós-graduando em Ciência de dados: Business intelligence, Big data e Analytics  
 - 📖 Portfolio: <a href ="https://leandrolincoln.vercel.app" target="_blank"> >Leandro Lincoln</a>
 
    
