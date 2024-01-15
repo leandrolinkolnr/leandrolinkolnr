@@ -17,6 +17,13 @@
 
 ## Ferramentas e Tecnologias
 
+- Python
+- SQL
+- Power BI
+- Excel
+- Estatistica
+- Machine Learning
+
 
 <br/>
 
