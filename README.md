@@ -18,10 +18,13 @@
 ## Ferramentas e Tecnologias
 
 - Python
-- Machine Learning
-- Estatistica
 - SQL
 - Power BI
+- Estatistica
+- Machine Learning
+- Inteligência Artificial
+
+
 
 
 
@@ -34,7 +37,7 @@
 ## Contatos:
 
 <div>
-<a href = "mailto:leandrolinkoln13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/leandrolincoln/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/leandrolinkoln/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+href="https://www.linkedin.com/in/leandrolincoln/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/leandrolinkoln/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
           
           
