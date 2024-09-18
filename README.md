@@ -4,7 +4,7 @@
 
 
 - 👨 Olá, me chamo Leandro Lincoln, tenho 28 anos e sou apaixonado pelo universo dos dados.
-- 🔭 Cientista de Dados no Núcleo de Tecnologias Estratégicas em Saúde (NUTES)
+- 🔭 Analista de Dados no Núcleo de Tecnologias Estratégicas em Saúde (NUTES)
 - :bookmark_tabs: Graduado em Ciência da Computação pela Universidade Estadual da Paraiba (UEPB)
 - :computer: Pós-graduado pela faculdade Anhanguera em Data Science: Business intelligence, big data e analytics.
 - 📖 Portfolio: <a href ="https://leandrolincoln.vercel.app" target="_blank"> >Leandro Lincoln</a>
